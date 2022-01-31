@@ -1,6 +1,6 @@
 ## Hi, I’m @Pipperix 👋 
 - 🌱 I’m currently learning 'How to live'
-- 🎆 Biggest Goal: ReCap Project with [@NikLucoz](https://github.com/NikLucoz) and [@Bh4ne](https://github.com/Bh4n3)
+- 🎆 Current Goal: ReCap Project with [@NikLucoz](https://github.com/NikLucoz) and [@Bh4ne](https://github.com/Bh4n3)
 
 <br />
 
