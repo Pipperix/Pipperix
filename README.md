@@ -21,6 +21,8 @@
 
 <br /> <br /> 
 
+<div>
+  
 <img align="right" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="animated cat" width="50%" height="50%"/>
 
 ## Charts:
@@ -29,6 +31,8 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=Pipperix&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Pipperix&theme=dark&hide_border=true" width = 400>
 </p>
+
+</div>
 
 <!---
 Pipperix/Pipperix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
