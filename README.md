@@ -1,7 +1,14 @@
 ## Hi, I’m @Pipperix 👋 
 - 🌱 I’m currently learning 'How to live'
-- 🎆 Current Goal: ReCap Project with [@NikLucoz](https://github.com/NikLucoz) and [@Bh4ne](https://github.com/Bh4n3)
-- ⚙️ I usually use: `.php`, `.js`, `.html`, `.css`
+- 🎆 Current Goal: 😶‍🌫️
+
+<hr/>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="animated cat" width="50%" height="50%"/>
+</p>
+
+<hr/>
 
 <br />
 
@@ -39,5 +46,8 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="Pipperix | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://instagram.com/leo_forco
+
+## Other
+Gif <iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></p>
 --->
 
