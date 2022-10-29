@@ -1,16 +1,7 @@
 ## Hi, I’m @Pipperix 👋 
+
 - 🌱 I’m currently learning 'How to live'
 - 🎆 Current Goal: 😶‍🌫️
-
-<hr/>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="animated cat" width="50%" height="50%"/>
-</p>
-
-<hr/>
-
-<br />
 
 ## Languages and Tools:
 
@@ -28,7 +19,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br /> <br />
+<br /> <br /> 
+
+<img align="right" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="animated cat" width="50%" height="50%"/>
 
 ## Charts:
 
