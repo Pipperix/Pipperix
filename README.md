@@ -16,6 +16,9 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Pipperix&theme=dark&hide_border=true" width = 400>
 </p>
 
+## Badges:
+
+[![@pipperix's Holopin board](https://holopin.me/pipperix)](https://holopin.io/@pipperix)
 
 <!---
 Pipperix/Pipperix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
